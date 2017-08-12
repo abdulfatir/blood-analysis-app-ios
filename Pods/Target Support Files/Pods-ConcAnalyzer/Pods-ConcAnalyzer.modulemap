@@ -1,0 +1,6 @@
+framework module Pods_ConcAnalyzer {
+  umbrella header "Pods-ConcAnalyzer-umbrella.h"
+
+  export *
+  module * { export * }
+}
