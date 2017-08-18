@@ -1,6 +1,6 @@
 # ConcAnalyzer - Blood Analysis App (iOS)
 
-This repository contains the sources for GSoC 2017 project named [**Mobile Based Blood Analysis (iOS)**](https://summerofcode.withgoogle.com/projects/#4860676891738112) with Computational Biology @ **University of Nebraska-Lincoln**. This project is a continuation of the [GSoC 2016 project](https://github.com/abdulfatir/blood-analysis-app) of the same name. This year the iOS version of ConcAnalyzer was developed.
+This repository contains the sources for GSoC 2017 project named [**Mobile Based Blood Analysis (iOS)**](https://summerofcode.withgoogle.com/projects/#4809191788118016) with Computational Biology @ **University of Nebraska-Lincoln**. This project is a continuation of the [GSoC 2016 project](https://github.com/abdulfatir/blood-analysis-app) of the same name. This year the iOS version of ConcAnalyzer was developed.
 
 ## Introduction
 
@@ -20,7 +20,7 @@ A video showing entire usage flow of the final iOS Application can be found [her
 #### Dependencies
 
 1. Cocoapods for [Charts](https://github.com/danielgindi/Charts) pod.
-2. [OpenCV](http://opencv.org/releases.html) 3.1.0 iOS Packß
+2. [OpenCV](http://opencv.org/releases.html) 3.1.0 iOS Pack
 
 
 ## Acknowledgment
